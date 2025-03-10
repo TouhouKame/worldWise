@@ -47,6 +47,54 @@
         "lng": 140.2091603
       },
       "id": 48315516
+    },
+    {
+      "cityName": "Gubbio",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-03-07T06:45:12.902Z",
+      "notes": "TEST",
+      "position": {
+        "lat": "43.48790613022499",
+        "lng": "12.519114206083112"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Prague",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2025-03-07T06:50:12.913Z",
+      "notes": "TEST",
+      "position": {
+        "lat": "50.01089989998676",
+        "lng": "14.49733124842342"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Glarus Sud",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2025-03-07T06:53:11.386Z",
+      "notes": "eee",
+      "position": {
+        "lat": "46.89083020803007",
+        "lng": "9.04936675790178"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Aomori",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2025-03-07T06:55:11.587Z",
+      "notes": "peppe",
+      "position": {
+        "lat": "40.80355040430463",
+        "lng": "140.7595135109842"
+      },
+      "id": 98443201
     }
   ]
 }
